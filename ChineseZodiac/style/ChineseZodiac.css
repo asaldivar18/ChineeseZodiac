@@ -1,0 +1,82 @@
+header, nav , main , footer { display: block;}
+
+div {
+	margin: auto;
+	width: 80%;
+} 
+
+hr{
+	border-color:#FFFFFF;
+	height: 1px;
+	width:80%;
+	margin:auto;
+}
+
+body{
+	font-family: sans-serif;
+	color: white;
+	background-image: url(../images/backimage.jpg);
+	background-size: auto;
+	margin: auto;
+	padding-left:10px;
+	padding-right:10px;
+	
+}
+
+h1 {
+	padding-left:10px;
+}
+
+p{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+}
+
+.onlycenter{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+.backimage{
+	background-image: url(../images/signsBackground.jpg);
+	background-size:auto;
+}
+
+.center{
+	text-align: center;
+	background-image:url(../images/signsBackground.jpg);
+	background-size:auto;
+}
+
+.header{
+	font-family: Arial;
+	text-align: center;
+	background-image: url(../images/blackSwirl.jpg);
+	background-size: auto;
+}
+
+.nav{
+	margin: auto;
+	text-align: center;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-top: 1px;
+}
+
+.nav li{
+	display: inline;
+}
+
+.footer{
+	color: black;
+	text-align : center;
+	font-style: italic;
+	background-image:none;
+	background-color:grey;
+}
+
+
+
